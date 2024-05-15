@@ -1,0 +1,49 @@
+.dog-image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50px;
+}
+
+.my-input {    
+    font-size: 20px;
+    display: inline-block;
+}
+
+.title {
+    width: 300px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 0;
+    margin-bottom: 3px;
+    display: inline-block;
+}
+
+.subtitle {
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(114, 114, 114);
+    margin-top: 0;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.author {
+    font-family: Arial;
+    color: rgb(114, 114, 114);
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.description {
+    width: 300px;
+    font-family: Arial;
+    color: rgb(114, 114, 114);
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
